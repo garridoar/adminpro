@@ -12,10 +12,6 @@ export class GraficoDonaComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-    console.log(this.labels);
-    console.log(this.data);
-    console.log(this.chartType);
-  }
+  ngOnInit() { }
 
 }
